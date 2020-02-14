@@ -11,4 +11,7 @@ public class GitTest {
     public void add(){
         System.out.println("新增一个方法");
     }
+    public void update(){
+        System.out.println("新增一个修改方法");
+    }
 }
