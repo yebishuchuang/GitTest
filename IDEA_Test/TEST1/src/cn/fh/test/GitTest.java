@@ -8,4 +8,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Hello,GitHub!");
     }
+    public void add(){
+        System.out.println("新增一个方法");
+    }
 }
