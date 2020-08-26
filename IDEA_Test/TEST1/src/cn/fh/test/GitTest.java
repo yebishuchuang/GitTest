@@ -14,4 +14,7 @@ public class GitTest {
     public void update(){
         System.out.println("新增一个修改方法");
     }
+    public void macAdd(){
+        System.out.println("mac系统中idea添加的一个方法");
+    }
 }
